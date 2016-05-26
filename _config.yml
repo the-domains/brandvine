@@ -1,0 +1,14 @@
+layout_spectrum: 0.9014092988800257
+typography_spectrum: 0.252255949890241
+color:
+  brandStrength: 0.19004347175359726
+  lightness: 0.36365995020605624
+  saturation: 0.6160033156629652
+  rhythmicContrast: 0.5316191897727549
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Brandvine
